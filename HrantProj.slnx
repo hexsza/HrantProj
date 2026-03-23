@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="BinaryTree/MyBinaryTree.csproj" />
+  <Project Path="HashTable/HashTable.csproj" />
+  <Project Path="MyLinkedList/MyLinkedList.csproj" />
+  <Project Path="MyQueue/MyQueueProj.csproj" />
+  <Project Path="PostFixProj/PostFixProj.csproj" />
+  <Project Path="StackProj/StackProj.csproj" />
+  <Project Path="Testing/Testing.csproj" />
+</Solution>
