@@ -1,9 +1,24 @@
 <Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
   <Project Path="BinaryTree/MyBinaryTree.csproj" />
   <Project Path="HashTable/HashTable.csproj" />
+  <Project Path="MainProj/MainProj.csproj" Id="432b61d3-e914-4e84-8c33-4b4f65b9a52f" />
+  <Project Path="MyBubbleSort/MyBubbleSort.csproj" Id="e143a4d1-c5d2-4f28-b74d-33127563abc6" />
+  <Project Path="MyChessProj/MyChessProj.csproj" Id="c750a97b-e998-4541-9f2a-11fc3207f296" />
+  <Project Path="MyInsertionSort/MyInsertionSort.csproj" Id="f89dc728-00fa-45e2-ab5d-818d2eb1e644" />
   <Project Path="MyLinkedList/MyLinkedList.csproj" />
+  <Project Path="MyMergeSort/MyMergeSort.csproj" Id="00a86ccd-4eda-4c84-b076-ecf1827696d3" />
+  <Project Path="MyPriorityQueue/MyPriorityQueue.csproj" Id="21966bf6-4c48-4a41-9ecc-f81cc03fdfc9" />
   <Project Path="MyQueue/MyQueueProj.csproj" />
+  <Project Path="MySelectionSort/MySelectionSort.csproj" Id="951a4c51-63f0-4e91-9614-57e8395858c7" />
+  <Project Path="MySet/MySetProj.csproj" Id="d95c0177-0dc3-47d1-ab5b-c7396cf4d073" />
   <Project Path="PostFixProj/PostFixProj.csproj" />
   <Project Path="StackProj/StackProj.csproj" />
   <Project Path="Testing/Testing.csproj" />
+  <Project Path="WpfApp1/MyWpfApp.csproj" Id="17aadeea-1453-4a71-95f2-909f0900206e" />
 </Solution>

@@ -162,5 +162,10 @@ public class MyLinkedList<T> : ICollection<T>
 
         Count--;
     }
+
+    public void AddBefore<T>(MyLinkedListNode<T> current, T item) where T : IComparable<T>
+    {
+        throw new NotImplementedException();
+    }
     #endregion Remove
 }
